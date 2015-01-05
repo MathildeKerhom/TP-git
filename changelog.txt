@@ -1,5 +1,0 @@
-55ffa2f display copyright
-61f1f0b Add file header
-39c3d9d Add Apache licence in Licence.txt
-62986ed Add build time
-fd58e0d Initial commit
